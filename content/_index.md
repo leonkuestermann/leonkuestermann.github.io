@@ -14,9 +14,9 @@ sections:
         text: "Download CV"
         url: "uploads/resume.pdf"
       headings:
-        about: ""
+        about: "Welcome!"
         education: ""
-        interests: ""
+        interests: "Research area"
     design:
       background:
         gradient_mesh:
@@ -122,6 +122,4 @@ sections:
         css_style: ""
     oe: "section-df6333cb"
     _internalId: "section-Rf6v9fXH"
-
 ---
-
