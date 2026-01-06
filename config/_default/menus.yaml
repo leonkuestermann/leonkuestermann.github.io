@@ -10,15 +10,15 @@ main:
     weight: 10
   - name: Papers
     identifier: Y7ARwGbY
-    url: /#papers
+    url: "/#papers"
     weight: 20
   - name: Talks
     identifier: rL3ddAge
-    url: /#talks
+    url: "/#talks"
     weight: 30
   - name: News
     identifier: Sw1Dx20J
-    url: /#news
+    url: "/#news"
     weight: 40
   - name: Projects
     identifier: sz3mDnda
