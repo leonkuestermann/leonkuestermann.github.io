@@ -9,7 +9,7 @@ hugoblox:
     mode: light
     pack: minimal
     colors:
-      primary: "#292a6a"
+      primary: "#454d3e"
       secondary: "#ffffff"
       neutral: ""
     colors_light:
