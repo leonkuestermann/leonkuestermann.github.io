@@ -72,7 +72,7 @@ sections:
     design:
       columns: "1"
     oe: "section-Iyi_8pvm"
-    id: "paper"
+    id: "papers"
     _internalId: "section-rFyJgNqC"
   - block: "cta-card"
     demo: true

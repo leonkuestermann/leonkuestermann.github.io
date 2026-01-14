@@ -8,23 +8,11 @@ main:
     identifier: eZe30dYC
     url: /
     weight: 10
+  - name: Research Agenda
+    identifier: research-agenda
+    url: /#agenda
+    weight: 20
   - name: Papers
     identifier: Y7ARwGbY
-    url: "/#papers"
-    weight: 20
-  - name: Talks
-    identifier: rL3ddAge
-    url: "/#talks"
+    url: /#papers
     weight: 30
-  - name: News
-    identifier: Sw1Dx20J
-    url: "/#news"
-    weight: 40
-  - name: Projects
-    identifier: sz3mDnda
-    url: projects/
-    weight: 50
-  - name: Courses
-    identifier: 5P1N4mcp
-    url: courses/
-    weight: 60
