@@ -27,6 +27,7 @@ sections:
         size: "large"
         shape: "rounded"
     oe: "section-678da822"
+    id: "about"
     _internalId: "section-OGQVjx7E"
   - block: "markdown"
     content:
@@ -35,11 +36,11 @@ sections:
       text: |+
         Technological change, globalization and more recentely climate transitions have fundamentally changed the social and employment structures of modern societies. We know that these structural changes tend to deepen social, economic and political division between workers who benefit and those at risk of being left behind. However, we do not understand as well the conditions for inclusive transformations that benefit more people without provoking subjective fears and political resentments.
 
-        My research agenda builds on the idea that firms are the societal actors that shape most immediately how threatened people feel for structural change. Firms often have substantially agency in how inclusively they manage structural change in their organizations. This also has important implications for policy responses to structural change as it suggests that institutions need to change how firms react to structural change.
+        My research agenda builds on the idea that firms are the societal actors that shape most immediately how threatened people feel by structural change. This also has important implications for policy responses it suggests that institutions need to change how firms react to structural change to support vulnerable workers effectively.
 
         Therefore, the overarching goals of my research agenda is to better understand: 
 
-        1.) the social and political outcomes of firm behavior? What are the firm strategies that reduce fears and political backlash among workers most effectively?
+        1.) the social and political outcomes of firm behavior? What are the firm strategies that reduce fears and political backlash among workers exposed to structural change?
          
         2.) the institutional drivers of firm strategies. Which labor market institutions evoke these firm strategies that benefit workers threatend by structural changee? 
 
@@ -51,68 +52,19 @@ sections:
     _internalId: "section-rFyJgNqC"
   - block: "collection"
     content:
-      title: "Featured Publications"
-      filters:
-        folders:
-          - "publications"
-        featured_only: true
-    design:
-      view: "article-grid"
-      columns: 2
-    oe: "section-papers"
-    id: "papers"
-    _internalId: "section-BJXs4UMP"
-  - block: "collection"
-    content:
-      title: "Recent Publications"
+      title: "Publications"
       text: ""
       filters:
         folders:
           - "publications"
         exclude_featured: false
+        kinds:
+          - ""
     design:
       view: "citation"
     oe: "section-74a52600"
+    id: "papers"
     _internalId: "section-q2_HzBtP"
-  - block: "collection"
-    content:
-      title: "Recent & Upcoming Talks"
-      filters:
-        folders:
-          - "events"
-    design:
-      view: "card"
-    oe: "section-talks"
-    id: "talks"
-    _internalId: "section-F4950p8h"
-  - block: "collection"
-    content:
-      title: "Recent News"
-      subtitle: ""
-      text: ""
-      page_type: "blog"
-      count: 10
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      offset: 0
-      order: "desc"
-    design:
-      view: "card"
-      spacing:
-        padding:
-          - 0
-          - 0
-          - 0
-          - 0
-    oe: "section-news"
-    id: "news"
-    _internalId: "section-mf5JoPU3"
   - block: "cta-card"
     demo: true
     content:
