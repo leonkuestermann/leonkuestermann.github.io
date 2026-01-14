@@ -50,21 +50,30 @@ sections:
     oe: "section-6f0ca0f1"
     id: "agenda"
     _internalId: "section-rFyJgNqC"
-  - block: "collection"
+  - block: "markdown"
     content:
       title: "Publications"
-      text: ""
-      filters:
-        folders:
-          - "publications"
-        exclude_featured: false
-        kinds:
-          - ""
+      subtitle: ""
+      text: |
+        Published
+
+        Küstermann, Leon (2025) “Upgrading Jobs for All: How Welfare States Shape Differences in Life Satisfaction between the Winners and Losers of Structural Change.” Socio-Economic Review 23, no. 4: 1895–921. https://doi.org/10.1093/ser/mwaf029.
+
+        Work in Progress
+
+        Küstermann, Leon (2025) “Managers of Change: How Firms Shape the Political Outcomes of Structural Economic Transformations.” URPP Working Paper Series, 80. [under review]
+        https://www.urpp-equality.uzh.ch/dam/jcr:2af13f86-6789-4450-913e-1609cd98c01e/80_Korrigiert%20Managers%20of%20change%20for%20working%20paper.pdf
+
+        Küstermann, Leon; Colombo, Francesco & van Kersbergen, Kees (2025) "The institutional foundations of successfull adaptations: when are training policies an effective response to structural change?" [in preperation]
+
+        Küstermann, Leon (2025) "When ambition pays off: the social contract of managing structural change" [in preperation]
+
+        Weisstanner, David, Küstermann, Leon; and van Kersbergen, Kees (2025) "Beyond Automation Risk: Firm-Level AI Adoption and the New Politics of Social Policy" [in preperation]
     design:
-      view: "citation"
-    oe: "section-74a52600"
-    id: "papers"
-    _internalId: "section-q2_HzBtP"
+      columns: "1"
+    oe: "section-Iyi_8pvm"
+    id: "paper"
+    _internalId: "section-rFyJgNqC"
   - block: "cta-card"
     demo: true
     content:
