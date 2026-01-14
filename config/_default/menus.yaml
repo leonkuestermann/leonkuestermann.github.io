@@ -12,7 +12,7 @@ main:
     identifier: research-agenda
     url: /#agenda
     weight: 20
-  - name: Papers
+  - name: Publications
     identifier: Y7ARwGbY
     url: /#papers
     weight: 30
