@@ -24,7 +24,7 @@ sections:
       name:
         size: "md"
       avatar:
-        size: "large"
+        size: "medium"
         shape: "rounded"
     oe: "section-678da822"
     id: "about"
