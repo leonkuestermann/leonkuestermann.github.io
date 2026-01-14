@@ -30,12 +30,24 @@ sections:
     _internalId: "section-OGQVjx7E"
   - block: "markdown"
     content:
-      title: "My Research"
+      title: "Research Agenda"
       subtitle: ""
-      text: "I research the social and political of structural changes in the economy such as technological change, globalization and climate transitions. "
+      text: |+
+        Technological change, globalization and more recentely climate transitions have fundamentally changed the social and employment structures of modern societies. We know that these structural changes tend to deepen social, economic and political division between workers who benefit and those at risk of being left behind. However, we do not understand as well the conditions for inclusive transformations that benefit more people without provoking subjective fears and political resentments.
+
+        My research agenda builds on the idea that firms are the societal actors that shape most immediately how threatened people feel for structural change. Firms often have substantially agency in how inclusively they manage structural change in their organizations. This also has important implications for policy responses to structural change as it suggests that institutions need to change how firms react to structural change.
+
+        Therefore, the overarching goals of my research agenda is to better understand: 
+
+        1.) the social and political outcomes of firm behavior? What are the firm strategies that reduce fears and political backlash among workers most effectively?
+         
+        2.) the institutional drivers of firm strategies. Which labor market institutions evoke these firm strategies that benefit workers threatend by structural changee? 
+
+
     design:
       columns: "1"
     oe: "section-6f0ca0f1"
+    id: "agenda"
     _internalId: "section-rFyJgNqC"
   - block: "collection"
     content:
