@@ -10,9 +10,9 @@ main:
     weight: 10
   - name: Research Agenda
     identifier: research-agenda
-    url: /#agenda
+    url: "/#agenda"
     weight: 20
   - name: Publications
     identifier: Y7ARwGbY
-    url: /#papers
+    url: "/#papers"
     weight: 30
