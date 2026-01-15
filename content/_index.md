@@ -40,7 +40,7 @@ sections:
 
         1.) the social and political outcomes of firm behavior. What are the firm strategies that reduce fears and political backlash among workers exposed to structural change? What psychological mechanisms are triggered through workplace experiences during economic transformations?
          
-        2.) the institutional drivers of firm strategies. Which labor market institutions incentivize firm strategies that benefit workers threatend by structural change? How strongly are firms ultimately constrained by political and labor market institutions in modern societies?
+        2.) the institutional drivers of firm strategies. Which labor market institutions and policies incentivize firm strategies that benefit workers threatend by structural change? How strongly are firms ultimately constrained by political and labor market institutions in modern economies?
 
 
     design:
