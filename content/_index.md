@@ -60,7 +60,7 @@ sections:
         Work in Progress
 
         Küstermann, Leon (2025) “Managers of Change: How Firms Shape the Political Outcomes of Structural Economic Transformations.” URPP Working Paper Series, 80. [under review]
-        https: "//www.urpp-equality.uzh.ch/dam/jcr:2af13f86-6789-4450-913e-1609cd98c01e/80_Korrigiert%20Managers%20of%20change%20for%20working%20paper.pdf"
+        https:"//www.urpp-equality.uzh.ch/dam/jcr:2af13f86-6789-4450-913e-1609cd98c01e/80_Korrigiert%20Managers%20of%20change%20for%20working%20paper.pdf"
 
         Küstermann, Leon; Colombo, Francesco & van Kersbergen, Kees (2025) "The institutional foundations of successfull adaptations: when are training policies an effective response to structural change?" [in preperation]
 
@@ -93,6 +93,4 @@ sections:
         css_style: ""
     oe: "section-df6333cb"
     _internalId: "section-Rf6v9fXH"
-
 ---
-
