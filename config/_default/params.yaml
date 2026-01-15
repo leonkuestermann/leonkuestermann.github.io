@@ -18,8 +18,8 @@ hugoblox:
     font: serif
     size: md
   layout:
-    radius: md
-    spacing: comfortable
+    radius: none
+    spacing: compact
     avatar_shape: circle
   header:
     enable: true
@@ -44,3 +44,5 @@ hugoblox:
     enable: true
   seo:
     title: Leon Küstermann
+  verification:
+    google: e4MUCTPjxalhkNNoAiY6FJK_91ERSR07sr_DRFJXYzA
