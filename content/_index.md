@@ -34,15 +34,13 @@ sections:
       title: "Research Agenda"
       subtitle: ""
       text: |+
-        Technological change, globalization and more recentely climate transitions have fundamentally changed the social and employment structures of modern societies. We know that these structural changes tend to deepen social, economic and political division between workers who benefit and those at risk of being left behind. However, we do not understand as well the conditions for inclusive transformations that benefit more people without provoking subjective fears and political resentments.
+        Technological change, globalization and more recentely climate transitions have fundamentally changed the social and employment structures of modern societies. We know that these structural changes tend to deepen social, economic and political division between workers who benefit and those at risk of being left behind. However, we do not understand well enough the conditions for inclusive transformations which do not provoke subjective fears and political resentments.
 
-        My research agenda builds on the idea that firms are the societal actors that shape most immediately how threatened people feel by structural change. This also has important implications for policy responses it suggests that institutions need to change how firms react to structural change to support vulnerable workers effectively.
+        My research agenda builds on the idea that firms are the societal actors that shape most immediately how threatened people feel by structural change. This also has important policy implications as it suggests that inclusive transformations depend on an institutional enviromnment in which firms are more likely to support vulnerable workers. Therefore, the overarching goals of my research agenda are to better understand: 
 
-        Therefore, the overarching goals of my research agenda is to better understand: 
-
-        1.) the social and political outcomes of firm behavior? What are the firm strategies that reduce fears and political backlash among workers exposed to structural change?
+        1.) the social and political outcomes of firm behavior. What are the firm strategies that reduce fears and political backlash among workers exposed to structural change? What psychological mechanisms are triggered through workplace experiences during economic transformations?
          
-        2.) the institutional drivers of firm strategies. Which labor market institutions evoke these firm strategies that benefit workers threatend by structural changee? 
+        2.) the institutional drivers of firm strategies. Which labor market institutions incentivize firm strategies that benefit workers threatend by structural change? How strongly are firms ultimately constrained by political and labor market institutions in modern societies?
 
 
     design:
