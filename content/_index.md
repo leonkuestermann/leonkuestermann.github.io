@@ -27,8 +27,10 @@ sections:
         size: "medium"
         shape: "rounded"
     oe: "section-678da822"
-    id: "about"
     _internalId: "section-OGQVjx7E"
+    ce: "section-about"
+    id: "about"
+    As: "section-beebb660"
   - block: "markdown"
     content:
       title: "Research Agenda"
@@ -46,8 +48,10 @@ sections:
     design:
       columns: "1"
     oe: "section-6f0ca0f1"
-    id: "agenda"
     _internalId: "section-rFyJgNqC"
+    ce: "section-agenda"
+    id: "agenda"
+    As: "section-65288bd9"
   - block: "markdown"
     content:
       title: "Publications"
@@ -58,7 +62,7 @@ sections:
         Küstermann, Leon (2025). Upgrading Jobs for All: How Welfare States Shape Differences in Life Satisfaction between the Winners and Losers of Structural Change. Socio-Economic Review, 23, 1895–921. [Link](https://doi.org/10.1093/ser/mwaf029)
 
 
-        Küstermann, Leon (2025). Managers of change: how firms shape the political outcomes of structural economic transformations. URPP Working Paper Series, 80. [under review] [Link](https://www.urpp-equality.uzh.ch/dam/jcr:2af13f86-6789-4450-913e-1609cd98c01e/80_Korrigiert%20Managers%20of%20change%20for%20working%20paper.pdf)
+        Küstermann, Leon (2025). Managers of change: how firms shape the political outcomes of structural economic transformations. URPP Working Paper Series, 80. [R&R American Political Science Review] [Link](https://www.urpp-equality.uzh.ch/dam/jcr:2af13f86-6789-4450-913e-1609cd98c01e/80_Korrigiert%20Managers%20of%20change%20for%20working%20paper.pdf)
 
 
         **Ongoing research**
@@ -73,8 +77,10 @@ sections:
     design:
       columns: "1"
     oe: "section-Iyi_8pvm"
-    id: "papers"
     _internalId: "section-rFyJgNqC"
+    ce: "section-papers"
+    id: "papers"
+    As: "section-5281869e"
   - block: "cta-card"
     demo: true
     content:
@@ -96,4 +102,6 @@ sections:
         css_style: ""
     oe: "section-df6333cb"
     _internalId: "section-Rf6v9fXH"
+    ce: "section-c522a007"
+    As: "section-32cf080d"
 ---
